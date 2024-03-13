@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is just a demo, stay tuned!
+This is a demo, stay tuned!
